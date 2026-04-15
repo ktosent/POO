@@ -55,7 +55,7 @@ while True:
                 est.mostrar()
                 encontrado = True
                 break
-
+                
         if not encontrado:
             print("Estudiante no encontrado.")
 
